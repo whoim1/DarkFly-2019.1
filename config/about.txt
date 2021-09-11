@@ -1,13 +1,9 @@
 
- DarkFly tools 2019.1
- ------------
- 
- Developer/Author    : Ms.ambari (Muslim ambari)
- Supported platform  : all Linux distro and termux(android)
- Email               : ambari.developer@gmail.com
- YouTube             : Ms.ambari
- Github              : /Ranginang67
- 
- ------------
- DarkFly tools 2019.1 is a open source and automatic tools.
+Instagram             : Cyber.Cmd
+contact               : Cybers.Cmd@gmail.com
+my Telegram channel   : Cyber.Cmd
+
+Follow my Instagram Page to learn ethical Hacking ^_^
+"""
+
 
